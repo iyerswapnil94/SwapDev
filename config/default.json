@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://SwapDev_11:ilRMXWezZD9nZYNl@devcluster.58xbl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
